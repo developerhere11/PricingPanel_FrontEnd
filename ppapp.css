@@ -144,12 +144,12 @@ body {
 
 html {
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .panel {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 8px;
     padding: 15px 20px;
     width: 100%;
     max-width: 960px;
@@ -160,7 +160,7 @@ html {
 }
 
 .pricing-plan {
-    border-bottom: 1px solid #e1f1ff;
+    border-bottom: 1px solid black;
 }
 
 .pricing-plan:last-child {
@@ -168,7 +168,7 @@ html {
 }
 
 .pricing-img {
-    margin-bottom: 25px;
+    margin-bottom: 40px;
     width: 100%;
 }
 
